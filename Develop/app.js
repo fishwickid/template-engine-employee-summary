@@ -11,6 +11,8 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 const render = require("./lib/htmlRenderer");
 
 
+//Initialise Employees Array
+
 const employeeFirstQuestion = [
     {
         type: "list",
