@@ -1,6 +1,4 @@
-Employee Generator App
 # Employee Summary App
----
 
 This app will help any employer easily create a summary of all their employees based on their role in their company including all of their contact details. 
 
